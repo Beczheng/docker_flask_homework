@@ -20,7 +20,7 @@
 
 ### Part 2: Dockerizing Multiple Flask Applications (Using Compose)
 - Create a folder a name it `Part2`.
-- Create a Docker Compose file and name it `docker-compose.yaml` within it. Copy [this code](https://github.com/Beczheng/docker_flask_homework/blob/main/Part2/docker-compose.yaml).
+- Create a Docker Compose file and name it `docker-compose.yml` within it. Copy [this code](https://github.com/Beczheng/docker_flask_homework/blob/main/Part2/docker-compose.yaml).
 - In addition, create two folders: `flask1` and `flask2`. Then, create a flask application for each folder.
 - Include a Docker file in each folder. Name both files `Dockerfile`. Copy [this code](https://github.com/Beczheng/docker_flask_homework/blob/main/Part2/flask1/Dockerfile) for both.
 - Include a `requirements.txt` file for each folder. Put `flask` in the files.

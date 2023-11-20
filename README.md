@@ -23,7 +23,7 @@
 - Create a Docker Compose file and name it `docker-compose.yml` within it. Copy [this code](https://github.com/Beczheng/docker_flask_homework/blob/main/Part2/docker-compose.yaml).
 - In addition, create two folders: `flask1` and `flask2`. Then, create a flask application for each folder.
 - Include a Docker file in each folder. Name both files `Dockerfile`. Copy [this code](https://github.com/Beczheng/docker_flask_homework/blob/main/Part2/flask1/Dockerfile) for both.
-- Include a `requirements.txt` file for each folder. Put `flask` in the files.
+- Include a `requirements.txt` file in each folder. Put `flask` in the files.
 - In your Cloud Shell terminal, type `docker-compose build`. This will build your images.
 - Type `docker-compose up`. This will run your images in containers.
 - To preview your images, make sure to change your ports according to the Docker Compose file.

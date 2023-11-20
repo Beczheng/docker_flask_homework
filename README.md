@@ -30,5 +30,3 @@
 - Type `docker-compose ps`. This will show a list of your containers.
 - Type `docker-compose down`. This will stop your containers.
 - Type `docker system prune -a -f`. This will clean and remove everything.
-
-

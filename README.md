@@ -11,7 +11,7 @@
 - Lastly, create a text file and name it `requirements.txt`. Put `flask` in the file.
 - In your Cloud Shell terminal, type `docker build -t <name of image> .`. This will build an image.
 - Type `docker images`. This will show a list of your images.
-- Type `docker run -d -p <port1>:<port2> <name of image>`. This will run the image in a container. 
+- Type `docker run -d -p <port1>:<port2> <name of image>`. This will run your image in a container. 
 - To preview your image, make sure to change your port to port 1 in Cloud Shell.
 - Type `docker ps`. This will show a list of your containers.
 - Type `docker stop <container ID>`. This will stop your container.

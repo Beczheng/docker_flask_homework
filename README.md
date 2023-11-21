@@ -34,6 +34,6 @@
 ### Explanation of Docker Compose
 - `Version` = Version of the Docker Compose file.
 - `Services` = Services for the application.
-- `Build:` = Current path. 
+- `Build:` = Specific path. 
 - `Ports` = Maps a port from host machine to a port from an image container.
 - `Volumes` = Mounts a directory from the host machine to the image container.

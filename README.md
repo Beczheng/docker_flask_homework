@@ -36,4 +36,4 @@
 - `Services` = Services for the application.
 - `Build:` = Current path. 
 - `Ports` = Maps a port from host machine to a port from an image container.
-- `Volumes` = Mount a directory from the host machine to the image container.
+- `Volumes` = Mounts a directory from the host machine to the image container.

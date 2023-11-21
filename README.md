@@ -31,7 +31,7 @@
 - Type `docker-compose down`. This will stop your containers.
 - Type `docker system prune -a -f`. This will clean and remove everything.
 
-## Explanation of Docker Compose
+### Explanation of Docker Compose
 - `Version` = Version of the Docker Compose file.
 - `Services` = Services for the application.
 - `Build:` = Current path. 
